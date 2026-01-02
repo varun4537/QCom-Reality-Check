@@ -1,0 +1,7 @@
+{
+  "name": "QuickCommerce Reality Check",
+  "description": "A neutral tool to assess the geographic feasibility of 10-minute delivery promises in Indian metros.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
